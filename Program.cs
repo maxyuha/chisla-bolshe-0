@@ -7,6 +7,7 @@ namespace ConsolleApp
         static void Main(string[] args)
         {
             void Zadacha41()
+            //Задача 41: Пользователь вводит с клавиатуры M чисел. Посчитайте, сколько чисел больше 0 ввёл пользователь.
             {int number0=5;
             int count =0;
             for (int i=0;i<number0;i++)
